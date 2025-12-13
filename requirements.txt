@@ -1,0 +1,30 @@
+# === Core Dependencies ===
+ipykernel
+python-dotenv
+
+# === Agent + LLM Tools ===
+aisuite==0.1.11
+pydantic-ai
+anthropic
+markdown
+openai
+langchain
+google-adk
+
+# === Web Framework + API ===
+pydantic
+requests
+
+# === Notebook Experience ===
+ipywidgets
+jupyter_server
+nbclassic
+notebook
+
+# === Data Analysis / Display (Optional Enhancements) ===
+matplotlib
+pandas
+numpy
+
+# === Machine Learning / NLP (Optional Enhancements) ===
+jinja2
