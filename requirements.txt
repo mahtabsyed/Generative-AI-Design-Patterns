@@ -10,6 +10,7 @@ markdown
 openai
 langchain
 google-adk
+google-genai
 
 # === Web Framework + API ===
 pydantic
