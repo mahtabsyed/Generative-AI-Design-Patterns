@@ -2,12 +2,12 @@
 - Thanks to Valliappa Lakshmanan, Hannes Hapke for the wonderful book https://www.oreilly.com/library/view/generative-ai-design/9798341622654/
 
 ## Generative AI / Agentic Applications - Challenges in production
--	Non-deterministic – different answers to same input
--	Hallucinations – confidently generating false or fabricated information
--	Reasoning inconsistencies – Logical errors or contradictions within responses
--	Model customization for an organization / industry – e.g. Medical knowledge or Legal knowledge not present in Foundational Models
--	Context window limitations – Losing important information in long conversations
--	Knowledge cutoff – knowledge till the last trained date of the model
+-	**Non-deterministic** – different answers to same input
+-	**Hallucinations** – confidently generating false or fabricated information
+-	**Reasoning inconsistencies** – Logical errors or contradictions within responses
+-	**Model customization** for an organization / industry – e.g. Medical knowledge or Legal knowledge not present in Foundational Models
+-	**Context window limitations** – Losing important information in long conversations
+-	**Knowledge cutoff** – knowledge till the last trained date of the model
 
 ## Design Patterns
 
